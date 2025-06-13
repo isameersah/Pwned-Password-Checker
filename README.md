@@ -82,7 +82,9 @@ You may also see any lint errors in the console.
 
 ## 📷 Screenshot
 
-<img src="https://i.imgur.com/maNNAYk.png" alt="App Screenshot" align="center" width="300"/>
+<p align="center">
+  <img src="https://your-screenshot-link.com" alt="App Screenshot" width="400"/>
+</p>
 
 
 ---
