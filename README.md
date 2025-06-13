@@ -23,7 +23,7 @@ Check if your password has been exposed in a public data breach using a secure a
 
 ## 🚀 Live Demo
 
-🔗 [Visit Live Website](https://your-vercel-link.vercel.app)
+🔗 [Visit Live Website](https://thethirdeye.vercel.app)
 
 ---
 
@@ -75,15 +75,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-\'''
-
+```
 ---
 
 ## 📷 Screenshot
 
-> *(Optional: Add a screenshot or GIF of the app below)*
-
-![Screenshot](https://your-screenshot-link.com) <!-- Replace with your actual screenshot URL -->
+![Screenshot](https://i.imgur.com/maNNAYk.png) 
 
 ---
 
@@ -102,8 +99,8 @@ You may also see any lint errors in the console.
 **Sameer Sah**  
 🎓 Cybersecurity & Networking Enthusiast  
 📍 Based in Nepal  
-📬 [admin@hdmoviesarea.me](mailto:admin@hdmoviesarea.me)  
-🔗 [GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/yourprofile)
+📬 [imsameersah@gmail.com](mailto:imsameersah@gmail.com)  
+🔗 [GitHub](https://github.com/isameersah) • [LinkedIn](https://linkedin.com/in/isameersah)
 
 ---
 
