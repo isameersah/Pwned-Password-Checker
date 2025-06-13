@@ -58,7 +58,7 @@ Check if your password has been exposed in a public data breach using a secure a
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pwned-password-checker.git
+git clone https://github.com/isameersah/Pwned-Password-Checker.git
 
 # Navigate to the project directory
 cd pwned-password-checker
